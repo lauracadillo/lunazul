@@ -5,12 +5,39 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07a84b78-8b73-44d1-80e2-105d43371075" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/img/centroucsm1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/centroucsm2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/centroucsm3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/styleFooter.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/styleHeader.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/styleIndex.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/styleProyectos.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/casacayma1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/casahunter1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/casahunter2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/casatiabaya1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/casatiabaya2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/contadores1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/contadores2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/hotel1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/majes1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/majes2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/majes3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/oficina1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/pena1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/piscinhunter1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/yura1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/yura2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/yura3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/yura4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyectos.html" beforeDir="false" afterPath="$PROJECT_DIR$/Proyectos.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contacto.html" beforeDir="false" afterPath="$PROJECT_DIR$/contacto.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/informacion.html" beforeDir="false" afterPath="$PROJECT_DIR$/informacion.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proyectos/modeloProyecto.html" beforeDir="false" afterPath="$PROJECT_DIR$/proyectos/modeloProyecto.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proyectos_cultura.html" beforeDir="false" afterPath="$PROJECT_DIR$/proyectos_cultura.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proyectos_enProceso.html" beforeDir="false" afterPath="$PROJECT_DIR$/proyectos_enProceso.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proyectos_espaciosPublicos.html" beforeDir="false" afterPath="$PROJECT_DIR$/proyectos_espaciosPublicos.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proyectos_modeloProyecto.html" beforeDir="false" afterPath="$PROJECT_DIR$/proyectos_modeloProyecto.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proyectos_vivienda.html" beforeDir="false" afterPath="$PROJECT_DIR$/proyectos_vivienda.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/studio.html" beforeDir="false" afterPath="$PROJECT_DIR$/studio.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

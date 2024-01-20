@@ -4,7 +4,8 @@
     <meta charset="UTF-8">
     <title>Lunazul | Modelo</title>
     <script src="/assets/script.js"></script>
-    <link rel="stylesheet" href="/assets/css/styles.css">
+    <link rel="stylesheet" href="assets/css/styleHeader.css">
+    <link rel="stylesheet" href="assets/css/styleProyectos.css">
 </head>
 <body>
 
@@ -22,29 +23,34 @@
         </nav>
     </header>
 </div>
-<h1>Centro de formacion y resolucion de conflictos UCSM</h1>
-<div class="todoElProyecto">
-<div class="slideshow-container">
 
+<h1>Centro de formacion y resolucion de conflictos UCSM</h1>
+
+<div class="todoElProyecto">
+    <!-- todas las imagenes + las flechas para cambiar entre ellas  -->
+<div class="slideshow-container">
     <!-- Full-width images with number and caption text -->
     <div class="carrusel">
     <div class="mySlides visible">
-        <div class="numbertext">1 / 3</div>
         <img src="/assets/img/centroucsm1.jpg" style="width:100%">
         <div class="text">Foto frentera</div>
     </div>
 
     <div class="mySlides fade">
-        <div class="numbertext">2 / 3</div>
         <img src="/assets/img/centroucsm2.png" style="width:100%">
         <div class="text">Foto de costado</div>
     </div>
 
     <div class="mySlides fade">
-        <div class="numbertext">3 / 3</div>
         <img src="/assets/img/centroucsm3.png" style="width:100%">
         <div class="text">Foto de otro costado</div>
     </div>
+        <!-- The dots/circles-->
+        <div style="text-align:center">
+            <span class="dot" onclick="currentSlide(1)"></span>
+            <span class="dot" onclick="currentSlide(2)"></span>
+            <span class="dot" onclick="currentSlide(3)"></span>
+        </div>
     </div>
     <!-- Next and previous buttons -->
     <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
@@ -52,14 +58,6 @@
 
 </div>
 <br>
-
-<!-- The dots/circles
-<div style="text-align:center">
-    <span class="dot" onclick="currentSlide(1)"></span>
-    <span class="dot" onclick="currentSlide(2)"></span>
-    <span class="dot" onclick="currentSlide(3)"></span>
-</div>-->
-
 
 <p class="descripcionProyecto">
     Este es el texto que se mostrará al hacer clic en la imagen.
